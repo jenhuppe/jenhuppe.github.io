@@ -1,0 +1,1188 @@
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="js fontawesome-i2svg-active fontawesome-i2svg-complete"><head>
+    <meta charset="utf-8">
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/png">
+<link rel="alternate" hreflang="en" href="http://www.rd.usda.gov/programs-services/electric-infrastructure-loan-loan-guarantee-program">
+<link rel="canonical" href="http://www.rd.usda.gov/programs-services/electric-infrastructure-loan-loan-guarantee-program">
+<link rel="shortlink" href="http://www.rd.usda.gov/node/4318">
+<link rel="revision" href="http://www.rd.usda.gov/programs-services/electric-infrastructure-loan-loan-guarantee-program">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.googletagmanager.com/gtm.js?id=GTM-WN3HM7P" async=""></script><script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_10616.js"></script><script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_10616.js"></script><script src="/sites/default/files/google_tag/gtm_wn3hm7p/google_tag.script.js?qkrvu5" defer=""></script>
+
+    <title>Electric Infrastructure Loan &amp; Loan Guarantee Program | Rural Development</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_9qbl-dvpbelyZVcJ0Xu8CoSUBko_XXL1AzkUO-K94Lw.css">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_AA0GH6aFpu2N3I-m6_NGVXvJvWvaWTRd6G9QhbT3434.css">
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="https://use.fontawesome.com/releases/v5.13.1/js/all.js" defer="" crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js" defer="" crossorigin="anonymous"></script>
+
+  <script type="text/javascript" src="//search.usa.gov/javascripts/remote.loader.js"></script><link type="text/css" href="//search.usa.gov/assets/sayt.css" rel="stylesheet" media="screen"><script type="text/javascript" src="//search.usa.gov/assets/sayt_loader_libs.js"></script></head>
+  <body class="path-node page-node-type-program context-programs-services-electric-infrastructure-loan-loan-guarantee-program with-sidebar">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WN3HM7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="sitewide-alert"><div></div></div>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+<header class="usa-header usa-header-extended" id="header" role="banner">
+
+            <section class="usa-banner">
+
+            <div class="usa-accordion">
+  <header class="usa-banner-header">
+    <div class="usa-grid usa-banner-inner">
+    <img src="/themes/custom/usda_rd_theme/assets/img/favicons/favicon-57.png" alt="U.S. flag">
+    <p>An official website of the United States government</p>
+    <button class="usa-accordion-button usa-banner-button" aria-expanded="false" aria-controls="gov-banner">
+      <span class="usa-banner-button-text">Here's how you know</span>
+    </button>
+    </div>
+  </header>
+  <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner" aria-hidden="true">
+    <div class="usa-banner-guidance-gov usa-width-one-half">
+      <img class="usa-banner-icon usa-media_block-img" src="/themes/custom/usda_rd_theme/assets/img/icon-dot-gov.svg" alt="Dot gov">
+      <div class="usa-media_block-body">
+        <p>
+          <strong>The .gov means it’s official.</strong>
+          <br>
+          Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or “location”) bar.
+        </p>
+      </div>
+    </div>
+    <div class="usa-banner-guidance-ssl usa-width-one-half">
+      <img class="usa-banner-icon usa-media_block-img" src="/themes/custom/usda_rd_theme/assets/img/icon-https.svg" alt="SSL">
+      <div class="usa-media_block-body">
+        <p>This site is also protected by an SSL (Secure Sockets Layer) certificate that’s been signed by the U.S. government. The <strong>https://</strong> means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+            
+        </section>
+    
+    
+        <div class="usa-navbar">
+            <button class="usa-menu-btn">Menu</button>
+            <div class="usa-logo">
+                <a class="usa-logo-text" href="/" title="Home" aria-label="Rural" development="" rel="home">
+                    <span>
+                        <img src="/themes/custom/usda_rd_theme/assets/img/usda-symbol.svg" alt="Rural" development="" class="usa-logo-img">
+                    </span>
+                    Rural Development
+                    <div class="tagline">U.S. Department of Agriculture</div>
+                </a>
+            </div>
+        </div>
+
+        <div class="usa-nav" role="navigation">
+            <div class="usa-nav-inner">
+
+                <button class="usa-nav-close">
+                    <img src="/themes/custom/usda_rd_theme/assets/img/close.svg" alt="close">
+                </button>
+
+                
+                
+                                            
+
+    <div>
+        <div class="region region-primary-menu">
+            
+
+
+  
+  
+          <ul class="usa-nav-primary usa-accordion" role="navigation">
+    
+          <li>
+
+        
+                  <a href="/" class="usa-nav-link">
+            <span>Home</span>
+          </a>
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-2">
+            <span>About RD</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-2" class="usa-nav-submenu" aria-hidden="true">
+
+            <li class="usa-nav-overview">
+        <a href="/about-rd">
+          <span>About RD</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/about-rd/leadership">
+            <span>Leadership</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/about-rd/offices">
+            <span>Offices</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/about-rd/agencies">
+            <span>Agencies</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/about-rd/initiatives">
+            <span>Initiatives</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/about-rd/topics">
+            <span>Topics</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/about-rd/farm-bill">
+            <span>Farm Bill</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/about-rd/grant-awards">
+            <span>Grant Awards</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/about-rd/offices/office-of-external-affairs">
+            <span>Office of External Affairs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/page/careers-rural-development">
+            <span>Careers at Rural Development</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/coronavirus">
+            <span>Coronavirus Response</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-3">
+            <span>Programs &amp; Services</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-3" class="usa-nav-submenu" aria-hidden="true">
+
+            <li class="usa-nav-overview">
+        <a href="/programs-services">
+          <span>Programs &amp; Services</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/programs-services/all-programs">
+            <span>All Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/browse-state">
+            <span>Browse by State</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/business-programs">
+            <span>Business Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/community-facilities-programs">
+            <span>Community Facilities Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/cooperative-services">
+            <span>Cooperative Services</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/electric-programs">
+            <span>Electric Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/energy-programs">
+            <span>Energy Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/single-family-housing-programs">
+            <span>Single Family Housing Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/telecom-programs">
+            <span>Telecommunications Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/water-environmental-programs">
+            <span>Water &amp; Environmental Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/all-programs/multi-family-housing-programs">
+            <span>Multi-Family Housing Programs</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/lenders/usda-linc-training-resource-library">
+            <span>USDA LINC Training</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/programs-services/services">
+            <span>Services</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-4">
+            <span>Newsroom</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-4" class="usa-nav-submenu" aria-hidden="true">
+
+            <li class="usa-nav-overview">
+        <a href="/newsroom">
+          <span>Newsroom</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/newsroom/news-releases">
+            <span>News Releases</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/newsroom/stakeholder-announcements">
+            <span>Stakeholder Announcements</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/newsroom/success-stories">
+            <span>Success Stories</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/newsroom/notices-solicitation-applications-nosas">
+            <span>Federal Funding Opportunities</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/newsroom/radio-tv-programming">
+            <span>Radio</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-5">
+            <span>Resources</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-5" class="usa-nav-submenu" aria-hidden="true">
+
+            <li class="usa-nav-overview">
+        <a href="/resources">
+          <span>Resources</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/resources/directives">
+            <span>Directives</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/forms">
+            <span>Forms</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/publications">
+            <span>Publications</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/regulations">
+            <span>Regulations and Guidance</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/environmental-studies">
+            <span>Environmental Studies</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/resources/publications-for-cooperatives">
+            <span>Publications for Cooperatives</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+          <li>
+
+                  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-6">
+            <span>Contact Us</span>
+          </button>
+        
+                    
+  
+          <ul id="megamenu-6" class="usa-nav-submenu" aria-hidden="true">
+
+            <li class="usa-nav-overview">
+        <a href="/contact-us">
+          <span>Contact Us</span>
+        </a>
+      </li>
+      
+    
+          <li>
+
+        
+                  <a href="/contact-us/national-office">
+            <span>National Office</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contact-us/state-offices">
+            <span>State Offices</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contact-us/loan-servicing">
+            <span>Loan Servicing</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contact-us/field-accountants">
+            <span>Field Accountants</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="https://www.farmers.gov/service-center-locator">
+            <span>USDA Service Centers</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contact-us/national-office/office-of-external-affairs">
+            <span>Press Office</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contact-us/electric-gfr">
+            <span>Electric GFR</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contact-us/telecom-gfr">
+            <span>Telecom GFR</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contact-us/freedom-information-act-foia">
+            <span>Freedom of Information Act</span>
+          </a>
+        
+      </li>
+          <li>
+
+        
+                  <a href="/contactpage/civil-rights-contacts">
+            <span>Civil Rights Contacts</span>
+          </a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+        </ul>
+  
+
+
+
+        </div>
+    </div>
+
+                    
+                                            
+
+    <div>
+        <div class="region region-secondary-menu">
+            <div class="usa-nav-secondary">
+
+  
+    <ul class="usa-unstyled-list usa-nav-secondary-links">
+
+  
+      <li>
+      <a href="https://www.usda.gov/our-agency/about-usda">
+        About USDA
+      </a>
+    </li>
+      <li>
+      <a href="https://ask.usda.gov/s/">
+        Ask USDA
+      </a>
+    </li>
+      <li>
+      <a href="/related-links/help">
+        Help
+      </a>
+    </li>
+  
+  </ul>
+  
+</div>
+
+
+        </div>
+    </div>
+
+                    
+                    
+                                    <div class="search-block-form usa-form-large usa-search usa-search-small js-search-form usa-sr-only block block-search container-inline">
+                        <form id="search_form" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+ 
+    <input type="hidden" name="affiliate" id="affiliate" value="usda-rd">
+    <!--<label for="query">Enter Search Term(s):</label>-->
+    <!--<input type="text" name="query" id="query" autocomplete="off" class="usagov-search-autocomplete" />-->
+    <!--<input type="submit" name="commit" value="Search" data-disable-with="Search" />-->
+    <input type="search" id="edit-keys" name="query" autocomplete="off" value="" class="form-search usagov-search-autocomplete ui-autocomplete-input">
+    <input type="submit" name="commit" id="edit-submit" value="" class="button js-form-submit form-submit">
+  </form>
+  <script>
+  //<![CDATA[
+        var usasearch_config = { siteHandle:"usda-rd" };
+   
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = "//search.usa.gov/javascripts/remote.loader.js";
+        document.getElementsByTagName("head")[0].appendChild(script);
+   
+  //]]>
+  </script>
+                    </div>
+                
+            </div>
+        </div>
+
+
+        
+</header>
+
+            <section id="page_hero">
+            <div class="hero-image" style="background-image: url(/sites/default/files/default_images/Subpage_Hero_2000x200.jpg); background-size: cover; background-position: center;"></div>
+
+        </section>
+    
+
+
+    <div>
+        <div class="region region-breadcrumb">
+            <div id="block-usda-rd-theme-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+          <nav aria-labelledby="system-breadcrumb" class="usa-grid">
+        <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+        <ol class="usa-breadcrumb-list">
+                            <li class="usa-breadcrumb-item">
+                                            <a href="/">Home</a>
+                                    </li>
+                            <li class="usa-breadcrumb-item">
+                                            <a href="/programs-services">Programs &amp; Services</a>
+                                    </li>
+                                    <li class="usa-breadcrumb-item">Electric Infrastructure Loan &amp; Loan Guarantee Program</li>
+        </ol>
+    </nav>
+
+  </div>
+
+        </div>
+    </div>
+
+
+
+
+    <div>
+        <div class="region region-highlighted">
+            <div data-drupal-messages-fallback="" class="hidden"></div>
+
+        </div>
+    </div>
+
+
+
+<main id="main-content" class="uswds-main-content-wrapper usa-section uswds-middle-section usa-layout-docs  usa-grid">
+
+            <aside class="region-sidebar-first usa-width-one-fourth usa-layout-docs-sidenav">
+            
+
+    <div>
+        <div class="region region-sidebar-first">
+            
+
+  
+  
+          <ul class="usa-sidenav-list">
+    
+          <li>
+        <a href="/">
+          <span>Home</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/about-rd">
+          <span>About RD</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/programs-services">
+          <span>Programs &amp; Services</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/newsroom">
+          <span>Newsroom</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/resources">
+          <span>Resources</span>
+        </a>
+
+        
+      </li>
+          <li>
+        <a href="/contact-us">
+          <span>Contact Us</span>
+        </a>
+
+        
+      </li>
+        </ul>
+  
+
+
+
+        </div>
+    </div>
+
+        </aside>
+    
+    <div class="region-content usa-width-three-fourths">
+        
+
+    <div>
+        <div class="region region-content">
+            <div class="views-element-container block block-views block-views-blockstate-group-jump-block-1" id="block-views-block-state-group-jump-block-1">
+  
+    
+      <div><div class="view view-state-group-jump view-id-state_group_jump view-display-id-block_1 js-view-dom-id-61558fb9ab927b1ed46791a75f0ce4f0efef9d618f4b56ef4c8f234a72821b37">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+<div id="block-program-pages-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="uswds-page-title page-title"><span class="field field--name-title field--type-string field--label-hidden">Electric Infrastructure Loan &amp; Loan Guarantee Program</span>
+</h1>
+
+
+  </div>
+<div id="block-usda-rd-theme-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="4318" role="article" about="/programs-services/electric-infrastructure-loan-loan-guarantee-program" class="node node--type-program node--view-mode-full">
+
+  
+    
+
+      <footer class="node__meta">
+      <article typeof="schema:Person" about="/user/39" class="profile">
+  </article>
+
+      <div class="node__submitted">
+        Submitted by <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="/user/39" typeof="schema:Person" property="schema:name" datatype="">JAMES J. PENDLETON</span></span>
+ on <span class="field field--name-created field--type-created field--label-hidden">Mon, 01/19/2015 - 18:10</span>
+        
+      </div>
+    </footer>
+  
+  <div class="node__content">
+    
+  </div>
+
+</article>
+
+  </div>
+<div id="block-blocktabsprogrampageblocktabs" class="block block-blocktabs block-blocktabs-blockprogram-page">
+  
+    
+      
+<div id="blocktabs-program_page" class="blocktabs click default ui-tabs ui-corner-all ui-widget ui-widget-content">
+<ul role="tablist" class="ui-tabs-nav ui-corner-all ui-helper-reset ui-helper-clearfix ui-widget-header">
+<li role="tab" tabindex="-1" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab" aria-controls="blocktabs-program_page--50" aria-labelledby="ui-id-1" aria-selected="false" aria-expanded="false"><a href="#blocktabs-program_page--50" role="presentation" tabindex="-1" class="ui-tabs-anchor" id="ui-id-1">Overview</a></li>
+<li role="tab" tabindex="-1" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab" aria-controls="blocktabs-program_page--49" aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a href="#blocktabs-program_page--49" role="presentation" tabindex="-1" class="ui-tabs-anchor" id="ui-id-2">To Apply</a></li>
+<li role="tab" tabindex="-1" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab" aria-controls="blocktabs-program_page--47" aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a href="#blocktabs-program_page--47" role="presentation" tabindex="-1" class="ui-tabs-anchor" id="ui-id-3">Other Requirements</a></li>
+<li role="tab" tabindex="-1" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab" aria-controls="blocktabs-program_page--46" aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a href="#blocktabs-program_page--46" role="presentation" tabindex="-1" class="ui-tabs-anchor" id="ui-id-4">Events</a></li>
+<li role="tab" tabindex="0" class="ui-tabs-tab ui-corner-top ui-state-default ui-tab ui-tabs-active ui-state-active" aria-controls="blocktabs-program_page--45" aria-labelledby="ui-id-5" aria-selected="true" aria-expanded="true"><a href="#blocktabs-program_page--45" role="presentation" tabindex="-1" class="ui-tabs-anchor" id="ui-id-5">Contact</a></li>
+</ul>
+
+<div id="blocktabs-program_page--50" aria-labelledby="ui-id-1" role="tabpanel" class="ui-tabs-panel ui-corner-bottom ui-widget-content" aria-hidden="true" style="display: none;"><div class="views-element-container"><div class="view view-programs-services view-id-programs_services view-display-id-block_1 js-view-dom-id-7d017698a5811529db9872f9e9724a5e70f6b2e6fbd0774f427b94502534a74a">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view programs-services__fact-sheet-btn-group"><div class="field-content"><div class="view view-fact-sheets view-id-fact_sheets view-display-id-block_1 js-view-dom-id-2a82542fb8241d29b8156a3a12fb90df747ee530c55a30d140c0f9838ace2ddd">
+  
+    
+      <div class="view-header">
+      
+    </div>
+      
+      <div class="view-content">
+          <div class="views-row"><div><div><a class="usa-button usa-button-primary programs-services__btn" href="/sites/default/files/fact-sheet/508_RD_FS_RUS_ElectricInfrastructure.pdf"><svg class="svg-inline--fa fa-download fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="download" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z"></path></svg><!-- <i class="fas fa-download"></i> -->Program Fact Sheet</a></div></div></div>
+    <div class="views-row"><div><div><a class="usa-button usa-button-primary programs-services__btn" href="/sites/default/files/fact-sheet/508_RD_FS_RUS_ElectricInfrastructure_SP.pdf"><svg class="svg-inline--fa fa-download fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="download" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z"></path></svg><!-- <i class="fas fa-download"></i> -->Hoja Informativa del Programa</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div></div><div class="views-field views-field-view-1 programs-services__all-lang-fact-sheets"><div class="field-content"><div class="view view-fact-sheets view-id-fact_sheets view-display-id-block_4 js-view-dom-id-766e2e8972201a9d0559b01dd74237e8a58690b6e27ac5bc10c7a99ecc6de427">
+  
+    
+      
+  
+          </div>
+</div></div><div class="views-field views-field-nothing programs-services__divider"><span class="field-content"><br></span></div><div class="views-field views-field-body programs-services__body"><div class="field-content"><h3>New&nbsp;Loan Refinancing Procedures, and Deadlines for the Refinancing of Federal Financing Bank Loans Pilot Program</h3>
+
+<p>The Rural Utilities Service (RUS) is soliciting Letters of Intent and opening a window for a pilot program to refinance a loan, or any part thereof, consisting of one or more whole but not partial advance(s), made under a loan by the Federal Financing Bank (FFB) and guaranteed by RUS.</p>
+
+<ul><li><a href="/files/USDARDElectric2017-REFINotice.pdf">Refinancing Notice</a></li>
+	<li><a href="/files/USDARDRefiSampleLtrIntent.docx">Sample Letter of Intent</a></li>
+</ul><p><strong>What does this program do?</strong></p>
+
+<p>The electric program makes insured loans and loan guarantees to nonprofit and cooperative associations, public bodies, and other utilities. Insured loans primarily finance the construction of electric distribution facilities in rural areas. The guaranteed loan program has been expanded and is now available to finance generation, transmission, and distribution facilities. The loans and loan guarantees finance the construction of electric distribution, transmission, and generation facilities, including system improvements and replacement required to furnish and improve electric service in rural areas, as well as demand side management, energy conservation programs, and on-grid and off-grid renewable energy systems.</p>
+
+<p><strong>Who may apply for this program?</strong></p>
+
+<p>Most retail or power supply providers serving qualified rural areas, including:</p>
+
+<ul><li>State and local governmental entities</li>
+	<li><a href="http://www.bia.gov/WhoWeAre/BIA/OIS/TribalGovernmentServices/index.htm">Federally-recognized Tribes</a></li>
+	<li>Nonprofits including cooperatives and limited dividend or mutual associations</li>
+	<li>For-profit businesses (must be a corporation or limited liability company)</li>
+</ul><p><strong>Are there additional eligibility requirements?</strong></p>
+
+<p><strong>What is an eligible area?</strong></p>
+
+<ul><li>The law requires the consideration of several factors to determine whether an area qualifies as rural for the purposes of this program</li>
+	<li>Check with a <a href="/contact-us/electric-gfr">General Field Representative (GFR)</a> to determine whether the proposed service area qualifies as rural</li>
+</ul><p><strong>How may funds be used?</strong></p>
+
+<p>Funds may be used to finance:</p>
+
+<ul><li>Maintenance</li>
+	<li>Upgrades</li>
+	<li>Expansion</li>
+	<li>Replacement of distribution, sub transmission and headquarters (service, warehouse) facilities</li>
+	<li>Energy efficiency</li>
+	<li>Renewable energy systems</li>
+	<li>For additional details, see the&nbsp;<a href="http://www.ecfr.gov/cgi-bin/text-idx?SID=e799ef59739be163ef958b9a398c38d2&amp;tpl=/ecfrbrowse/Title07/7chapterXVII.tpl">Code of Federal Regulations </a></li>
+</ul><p><strong>What kind of funding is available?</strong></p>
+
+<ul><li>Loan Guarantees up to 100% allow the Federal Financing Bank (FFB) to extend credit to qualified borrowers in rural areas. 100% of the construction work plan can be financed</li>
+	<li>Hardship Loans may be used, at the sole discretion of the Rural Utilities Service, to assist applicants in rural areas that are either economically distressed or recovering from an unavoidable event, such as a natural disaster</li>
+</ul><p><strong>What are the loan terms?</strong></p>
+
+<ul><li>Generally, repayment may not exceed the useful life of the facility being financed, with a maximum repayment schedule of 35 years</li>
+	<li>Power supply borrowers are also limited by the terms of their wholesale power contracts</li>
+	<li>Loan Guarantees and Treasury Rate Loans: interest rates are fixed at the time of each advance based on rates established daily by the United States Treasury plus 1/8 of 1%</li>
+	<li>Hardship Loans: interest rates are fixed at a rate of 5% for up to&nbsp;35 years</li>
+	<li>Borrowers must have legal authority to provide, construct, operate and maintain the proposed facilities or services</li>
+	<li>All facilities receiving federal financing must be used for a public purpose</li>
+	<li>Partnerships with other federal, state, local, private and non-profit entities are encouraged</li>
+</ul><p><strong>What is the current status of the program and who currently participates?</strong></p>
+
+<ul><li>Our <a href="/files/UEP_Boxscore.pdf">Boxscore</a> provides a current overview of the Rural Electric program investments</li>
+</ul><p><strong>How do we get started?</strong></p>
+
+<ul><li>Applications for these programs are accepted year-round through a <a href="/contact-us/electric-gfr">General Field Representative &nbsp;(GFR)</a></li>
+	<li><a href="/page/regulations-and-guidance">Program Resources</a> are available online (i.e. forms, guidance, certifications)</li>
+</ul><p><strong>Who can answer questions?</strong></p>
+
+<ul><li>Contact the <a href="/contact-us/electric-gfr">GFR</a> who serves your area</li>
+	<li>Call the Electric Program at 202-720-1422</li>
+</ul><p><strong>What governs this program? </strong></p>
+
+<ul><li><a href="/files/utprea36.pdf">Rural Electrification Act of 1936, as amended</a></li>
+	<li><a href="http://www.ecfr.gov/cgi-bin/text-idx?SID=e799ef59739be163ef958b9a398c38d2&amp;tpl=/ecfrbrowse/Title07/7chapterXVII.tpl">Code of Federal Regulations</a></li>
+</ul><p><strong>Why does USDA Rural Development do this?</strong></p>
+
+<p>Electric Infrastructure Loan Programs provide investment capital in the form of loans and loan-guarantees for the maintenance and improvement of electric infrastructure in areas where commercial capital is not available.&nbsp; This type of investment increases economic opportunity and quality of life in rural communities nationwide by maintaining a seamless electric network for all Americans, regardless of where they live.</p>
+
+<p><strong>NOTE:</strong> Program details may change over time. Before you begin an application, please confirm you have the most current information by contacting a&nbsp;<a href="/contact-us/electric-gfr">GFR</a> who serves your area for assistance or consult the program Instructions listed in the section above titled "<em>What Governs this Program?"</em></p>
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+<div id="blocktabs-program_page--49" aria-labelledby="ui-id-2" role="tabpanel" class="ui-tabs-panel ui-corner-bottom ui-widget-content" aria-hidden="true" style="display: none;"><div class="views-element-container"><div class="view view-programs-services view-id-programs_services view-display-id-block_2 js-view-dom-id-d31598b0e3b08175cf6b8235ac802e917d33e26c24a8e0313336ce16870f1ca0">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-interest-rates"><span class="views-label views-label-field-interest-rates">Interest Rates: </span><div class="field-content"><p><a href="/programs-services/services/rural-utilities-loan-interest-rates">RUS Interest Rates</a></p>
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+<div id="blocktabs-program_page--47" aria-labelledby="ui-id-3" role="tabpanel" class="ui-tabs-panel ui-corner-bottom ui-widget-content" aria-hidden="true" style="display: none;"><div class="views-element-container"><div class="view view-programs-services view-id-programs_services view-display-id-block_4 js-view-dom-id-c28ea48b482797b42266681351fb6300fdeb5510efbf0aba58bb02d117b9f427">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-architect"><div class="field-content"><p>There are no other architect, engineering or environmental requirements at the national level. If there are additional state-specific requirements they will be listed above.&nbsp;</p>
+</div></div><div class="views-field views-field-field-other-requirements"><div class="field-content"><p>There are no other additional requirements at the national level. If there are additional state-specific requirements they will be listed above.</p>
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+<div id="blocktabs-program_page--46" aria-labelledby="ui-id-4" role="tabpanel" class="ui-tabs-panel ui-corner-bottom ui-widget-content" aria-hidden="true" style="display: none;"><div class="views-element-container"><div class="view view-programs-services view-id-programs_services view-display-id-block_6 js-view-dom-id-e836c61e0df66189ab73ae50c025854a91bc907d46d9a8ed99640bc53a2eb680">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-events"><div class="field-content"><p>There are currently no events scheduled.</p>
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+<div id="blocktabs-program_page--45" aria-labelledby="ui-id-5" role="tabpanel" class="ui-tabs-panel ui-corner-bottom ui-widget-content" aria-hidden="false" style=""><div class="views-element-container"><div class="view view-programs-services view-id-programs_services view-display-id-block_3 js-view-dom-id-5387cd75c3f6dceb330ac795fb74284d83b55df7c61f8841ee168f814a913163">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-contact-paragraph"><div class="field-content"><p>Office of Loan Origination and Approval<br>
+202-720-1422</p>
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+
+</div>
+
+
+  </div>
+<div class="views-element-container block block-views block-views-blockprogram-category-components-block-2" id="block-views-block-program-category-components-block-2">
+  
+    
+      <div><div class="view view-program-category-components view-id-program_category_components view-display-id-block_2 js-view-dom-id-9216488685a4de7b0b976f44dea27048a376eca2ebb2373051e036d058674f76">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+
+        </div>
+    </div>
+
+    </div>
+
+    
+</main>
+
+<footer class="usa-footer usa-footer-medium" role="contentinfo">
+    <div class="usa-grid usa-footer-return-to-top">
+        <a href="#">Return to top</a>
+    </div>
+            <div class="usa-footer-primary-section">
+            <div class="usa-grid">
+                <nav class="usa-footer-nav ">
+                                            
+
+    <div>
+        <div class="region region-footer-menu">
+            
+
+
+    
+        <ul class="usa-unstyled-list">
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="https://www.rd.usda.gov/">Home</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/about-rd">About RD</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/programs-services">Programs &amp; Services</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/browse-state">Browse by State</a>
+        </li>
+        
+      
+                <li class="usa-width-one-sixth usa-footer-primary-content">
+          <a class="usa-footer-primary-link" href="/newsroom/news-releases">Newsroom</a>
+        </li>
+        
+          </ul>
+    
+  
+
+
+
+        </div>
+    </div>
+
+                                    </nav>
+
+                
+                            </div>
+        </div>
+    
+            <div class="usa-footer-secondary_section">
+
+                            <div class="usa-grid">
+                    
+
+    <div>
+        <div class="region region-footer-secondary">
+            <div id="block-footersubmenu" class="block block-fixed-block-content block-fixed-block-contentfooter-sub-menu">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="usa-grid-full">
+<nav aria-labelledby="block-usda-footernavigation-menu" class="usa-footer-nav" data-block-plugin-id="system_menu_block:footer-navigation" id="block-usda-footernavigation">
+<div class="usa-width-two-thirds">
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation">
+	<li class="usa-footer-navigation-link"><a href="/" id="anch_69">USDA RD Home</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/" id="anch_69">USDA.gov</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/policies-and-links" id="anch_69">Policies and Links</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/our-agency/about-usda/performance" id="anch_70">Our Performance</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/our-agency/careers" id="anch_71">Careers</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/oig/forms/contractor-fraud" id="anch_72">Report Fraud on USDA Contracts</a></li>
+</ul>
+</div>
+
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation">
+	<li class="usa-footer-navigation-link"><a href="https://www.access-board.gov/aba-enforcement" id="anch_69">Architectural Barriers Act</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/nofear" id="anch_69">No FEAR Act</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/plain-writing" id="anch_74">Plain Writing</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/open" id="anch_75">Open</a></li>
+	<li class="usa-footer-navigation-link"><a href="/contact-us/freedom-information-act-foia" id="anch_77">FOIA</a></li>
+</ul>
+</div>
+
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation">
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/accessibility-statement" id="anch_78">Accessibility Statement</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/privacy-policy" id="anch_79">Privacy Policy</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/non-discrimination-statement" id="anch_80">Non-Discrimination Statement</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.ascr.usda.gov/civil-rights-statements" id="anch_81">Anti-Harassment Policy</a></li>
+	<li class="usa-footer-navigation-link"><a href="http://www.ocio.usda.gov/policy-directives-records-forms/information-quality-activities" id="anch_82">Information Quality</a></li>
+</ul>
+</div>
+
+<div class="usa-width-one-fourth">
+<ul class="usa-unstyled-list usa-footer-navigation">
+	<li class="usa-footer-navigation-link"><a href="https://www.usa.gov" id="anch_83">USA.gov</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.whitehouse.gov" id="anch_84">Whitehouse.gov</a></li>
+	<li class="usa-footer-navigation-link"><a href="https://www.usda.gov/federal-web-site-inventory" id="anch_85">eGov</a></li>
+	<li class="usa-footer-navigation-link"><a href="mailto:rdwebmaster@usda.gov" id="anch_86">Feedback</a></li>
+</ul>
+</div>
+</div>
+
+<div class="usa-sign_up-block usa-width-one-third">
+<h3 class="usa-sign_up-header" id="block-footersignup-menu">Sign Up for Updates</h3>
+
+<form action="https://public.govdelivery.com/accounts/USDARD/subscriber/new"><label class="signup__label" for="block-footersignup-label">Your email address</label> <input class="signup__input" id="block-footersignup-label" name="email" type="email"> <input class="signup__button" name="commit" type="submit" value="Sign Up">&nbsp;</form>
+</div>
+</nav>
+</div>
+</div>
+      
+  </div>
+
+        </div>
+    </div>
+
+                </div>
+            
+        </div>
+    
+    <div class="usa-footer-branding_section">
+        <div class="usa-grid">
+                            <div class="usa-grid-full">
+                    <div class="usa-logo usa-width-one-half">
+                        <a class="usa-logo-text" href="/" title="Home" aria-label="Rural" development="" rel="home">
+                            <span>
+                                <img src="/themes/custom/usda_rd_theme/assets/img/usda-symbol.svg" alt="Rural" development="" class="usa-logo-img">
+                            </span>
+                            Rural Development
+                            <div class="tagline">U.S. Department of Agriculture</div>
+                        </a>
+                    </div>
+
+                                            <div class="usa-footer-contact-links usa-width-one-half">
+
+                                                            <a class="usa-link-facebook ext" href="http://www.facebook.com/USDA" data-extlink="">
+                                    <span>Facebook</span>
+                                <svg focusable="false" class="ext" role="img" aria-label="(link is external)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 40"><metadata><sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/"><slicesourcebounds y="-8160" x="-8165" width="16389" height="16384" bottomleftorigin="true"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid="0" fileformat="PNG24Format"><png24format transparency="true" filtered="false" interlaced="false" nomattecolor="false" mattecolor="#FFFFFF"></png24format></targetsettings></optimizationsettings></sfw></metadata><title>(link is external)</title><path d="M48 26c-1.1 0-2 0.9-2 2v26H10V18h26c1.1 0 2-0.9 2-2s-0.9-2-2-2H8c-1.1 0-2 0.9-2 2v40c0 1.1 0.9 2 2 2h40c1.1 0 2-0.9 2-2V28C50 26.9 49.1 26 48 26z"></path><path d="M56 6H44c-1.1 0-2 0.9-2 2s0.9 2 2 2h7.2L30.6 30.6c-0.8 0.8-0.8 2 0 2.8C31 33.8 31.5 34 32 34s1-0.2 1.4-0.6L54 12.8V20c0 1.1 0.9 2 2 2s2-0.9 2-2V8C58 6.9 57.1 6 56 6z"></path></svg></a>
+                            
+                                                            <a class="usa-link-twitter ext" href="http://twitter.com/usdard" data-extlink="">
+                                    <span>Twitter</span>
+                                <svg focusable="false" class="ext" role="img" aria-label="(link is external)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 40"><metadata><sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/"><slicesourcebounds y="-8160" x="-8165" width="16389" height="16384" bottomleftorigin="true"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid="0" fileformat="PNG24Format"><png24format transparency="true" filtered="false" interlaced="false" nomattecolor="false" mattecolor="#FFFFFF"></png24format></targetsettings></optimizationsettings></sfw></metadata><title>(link is external)</title><path d="M48 26c-1.1 0-2 0.9-2 2v26H10V18h26c1.1 0 2-0.9 2-2s-0.9-2-2-2H8c-1.1 0-2 0.9-2 2v40c0 1.1 0.9 2 2 2h40c1.1 0 2-0.9 2-2V28C50 26.9 49.1 26 48 26z"></path><path d="M56 6H44c-1.1 0-2 0.9-2 2s0.9 2 2 2h7.2L30.6 30.6c-0.8 0.8-0.8 2 0 2.8C31 33.8 31.5 34 32 34s1-0.2 1.4-0.6L54 12.8V20c0 1.1 0.9 2 2 2s2-0.9 2-2V8C58 6.9 57.1 6 56 6z"></path></svg></a>
+                            
+                            
+                                                            <a class="usa-link-youtube ext" href="https://www.youtube.com/channel/UCYtl4dCpqpZvB9kbR9w_I7w" data-extlink="">
+                                    <span>YouTube</span>
+                                <svg focusable="false" class="ext" role="img" aria-label="(link is external)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 40"><metadata><sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/"><slicesourcebounds y="-8160" x="-8165" width="16389" height="16384" bottomleftorigin="true"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid="0" fileformat="PNG24Format"><png24format transparency="true" filtered="false" interlaced="false" nomattecolor="false" mattecolor="#FFFFFF"></png24format></targetsettings></optimizationsettings></sfw></metadata><title>(link is external)</title><path d="M48 26c-1.1 0-2 0.9-2 2v26H10V18h26c1.1 0 2-0.9 2-2s-0.9-2-2-2H8c-1.1 0-2 0.9-2 2v40c0 1.1 0.9 2 2 2h40c1.1 0 2-0.9 2-2V28C50 26.9 49.1 26 48 26z"></path><path d="M56 6H44c-1.1 0-2 0.9-2 2s0.9 2 2 2h7.2L30.6 30.6c-0.8 0.8-0.8 2 0 2.8C31 33.8 31.5 34 32 34s1-0.2 1.4-0.6L54 12.8V20c0 1.1 0.9 2 2 2s2-0.9 2-2V8C58 6.9 57.1 6 56 6z"></path></svg></a>
+                            
+                            
+                            
+                            
+                            
+                                                            <a class="usa-link-rss" href="https://www.rd.usda.gov/newsroom/rss">
+                                    <span>RSS</span>
+                                </a>
+                            
+                            <address>
+                                
+                                
+                                                            </address>
+                        </div>
+                                    </div>
+                    </div>
+    </div>
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/4318","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"blocktabs\/blocktabs,ckeditor_accordion\/accordion_style,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,extlink\/drupal.extlink,fontawesome\/fontawesome.svg.shim,moderated_content_bulk_publish\/moderated-content-bulk-publish,simple_popup_views\/simple_popup_views,sitewide_alert\/init,system\/base,usda_rd_theme\/riveted,usda_rd_theme\/siteimprove,usda_rd_theme\/usda_rd_theme_style,uswds\/drupal,uswds\/uswds,views\/views.ajax,views\/views.module","theme":"usda_rd_theme","theme_token":null},"ajaxTrustedUrl":[],"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"^https?:\/\/[^\/]+\\.(gov|us|mil)\/","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"www.rd.usda.gov says\r\n\r\nYou are now leaving the United States Department of Agriculture Rural Development website and entering an external link or a third-party site.\r\n\r\nThis USDA website provides links to other websites to provide additional information that may be useful or interesting, and is being provided in a manner \r\nconsistent with the intended purpose of the content you are viewing on the website.  USDA is providing these links for your reference. Once you access another site \r\nthrough a link that we provide, you are subject to the copyright and licensing restrictions of the new site.\r\n\r\nIt is the sole responsibility of you, the user of this site, to carefully examine the content of the site and all linked pages for privacy, copyright and licensing \r\nrestrictions and to secure all necessary permissions if applicable.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ckeditorAccordion":{"accordionStyle":{"collapseAll":null,"keepRowsOpen":null}},"sitewideAlert":{"refreshInterval":15000,"automaticRefresh":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:61558fb9ab927b1ed46791a75f0ce4f0efef9d618f4b56ef4c8f234a72821b37":{"view_name":"state_group_jump","view_display_id":"block_1","view_args":"","view_path":"\/node\/4318","view_base_path":null,"view_dom_id":"61558fb9ab927b1ed46791a75f0ce4f0efef9d618f4b56ef4c8f234a72821b37","pager_element":0}}},"user":{"uid":0,"permissionsHash":"e0bcd1fda52d9424b182ce4dc21b94b38542b8eda87c0db57552d469a01bdbc0"}}</script>
+<script src="/sites/default/files/js/js_2oFCOVcNkRp1Zo_x5-pzj8C56GAAX8QQVAw5-eC6Aag.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=fetch"></script>
+<script src="https://unpkg.com/react@16.12.0/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.production.min.js"></script>
+<script src="/sites/default/files/js/js_bcg8Wgdv3rPyMYs1JX-IcMzKBsXDZHGOcl6CFrDiuH0.js"></script>
+
+    <script id="siteimprove" src="/themes/custom/usda_rd_theme/assets/js/siteimprove.js"></script>    
+    <script id="riveted_js" src="/themes/custom/usda_rd_theme/assets/js/riveted.rd.usda.min.js"></script>
+  
+
+<script type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=Rural Development&amp;pua=UA-27627304-36&amp;UA-27610928-1"></script><div id="usasearch_sayt" style="background: none; border: 0px; display: block; float: none; height: 0px; line-height: 0; margin: 0px; padding: 0px; position: static; width: 0px;"><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>
